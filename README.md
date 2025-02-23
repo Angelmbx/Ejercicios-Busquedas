@@ -25,3 +25,4 @@ Aplicaremos los distintos algoritmos de búsqueda que se tratan en las sesiones 
 ![Ejercicio1 - Busqueda de coste uniforme](coste_uniforme.jpeg)
 
 5. Algoritmos **A** y **A***.
+![Ejercicio1 - Algoritmos A y A*](algoritmo_A_A*.jpeg)
