@@ -38,3 +38,39 @@ Sí, la heurística es admisible ya que nunca sobreestima el costo real hacia la
 
 #### ¿Podemos decir que el algoritmo es **A***?   
 Sí, usando una heurística admisible logró encontrar la ruta más eficiente (de menor costo).
+
+## Ejercicio 3
+
+En el hipotético caso de que el servicio Google Maps empleara el algoritmo de **búsqueda por coste uniforme** para encontrar la ruta más corta (en km) entre dos localidades, calcula la solución que ofrecería para la ruta **Ourense-Calatayud** dadas las siguientes distancias kilométricas:
+
+
+![Ejercicio3 - búsqueda por coste uniforme Ourense Calatayud](mapa.png)
+
+
+
+
+| Trayecto            | Distancia en km      |
+| :------------------ | :------------------:|
+| Ourense, Ponferrada | 175                 |
+| Ourense, Benavente  | 236                 |
+| Ponferrada, León    | 113                 |
+| Ponferrada, Benavente | 125               |
+| Benavente, León     | 75                  |
+| Benavente, Valladolid | 112               |
+| Benavente, Palencia | 112                 |
+| Palencia, León      | 131                 |
+| Palencia, Valladolid | 48                 |
+| Palencia, Osorno    | 49                  |
+| Palencia, Burgos    | 92                  |
+| León, Osorno        | 121                 |
+| Osorno, Burgos      | 59                  |
+| Valladolid, Aranda  | 95                  |
+| Burgos, Aranda      | 84                  |
+| Aranda, Osma        | 58                  |
+| Osma, Calatayud     | 140                 |
+| Osma, Soria         | 58                  |
+| Burgos, Soria       | 143                 |
+| Burgos, Logroño     | 150                 |
+| Logroño, Soria      | 106                 |
+| Soria, Calatayud    | 91                  |
+
