@@ -44,7 +44,7 @@ Sí, usando una heurística admisible logró encontrar la ruta más eficiente (d
 En el hipotético caso de que el servicio Google Maps empleara el algoritmo de **búsqueda por coste uniforme** para encontrar la ruta más corta (en km) entre dos localidades, calcula la solución que ofrecería para la ruta **Ourense-Calatayud** dadas las siguientes distancias kilométricas:
 
 
-![Ejercicio3 - búsqueda por coste uniforme Ourense Calatayud](mapa.png)
+![Ejercicio3 - mapa_Ourense Calatayud](mapa.png)
 
 
 
@@ -73,4 +73,24 @@ En el hipotético caso de que el servicio Google Maps empleara el algoritmo de *
 | Burgos, Logroño     | 150                 |
 | Logroño, Soria      | 106                 |
 | Soria, Calatayud    | 91                  |
+
+
+### Para facilitar la escritura durante la realización del ejercicio se renombraron las ciudades (nodos) de la siguiente manera:
+| Ciudad             | Nodo                 |
+| :------------------ | :------------------:|
+| Ourense              | i                |
+| Ponferrada          | A                |
+| Benavente  | B               |
+| León | C               |
+| Osorno     | D                  |
+| Palencia | E               |
+| Valladolid | F                |
+| Burgos      | G                 |
+| Aranda | H                 |
+| Osma    | I                 |
+| Soria    | J                  |
+| Logroño        | K                 |
+| Calatayud      | e                 |
+
+![Ejercicio3 - búsqueda por coste uniforme Ourense Calatayud](recorte_ourense_calatayud.jpeg)
 
