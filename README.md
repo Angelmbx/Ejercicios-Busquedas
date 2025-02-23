@@ -26,3 +26,15 @@ Aplicaremos los distintos algoritmos de búsqueda que se tratan en las sesiones 
 
 5. Algoritmos **A** y **A***.
 ![Ejercicio1 - Algoritmos A y A*](algoritmo_A_A*.jpeg)
+
+
+## Ejercicio 2
+
+### Preguntas específicas:
+
+#### La heurística utilizada en el algoritmo **A**, ¿es admisible? ¿Por qué?
+Sí, la heurística es admisible ya que nunca sobreestima el costo real hacia la meta.
+
+
+#### ¿Podemos decir que el algoritmo es **A***?   
+Sí, usando una heurística admisible logró encontrar la ruta más eficiente (de menor costo).
