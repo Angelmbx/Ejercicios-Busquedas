@@ -14,5 +14,12 @@ Aplicaremos los distintos algoritmos de búsqueda que se tratan en las sesiones 
 
 
 2. Búsqueda en profundidad.
+
+![Ejercicio1 - Busqueda en profundidad](profundidad.jpeg)
+
+- Con límite de profundidad 5 no se alcanza el objetivo, provocando fracaso por valor de corte (en el límite propuesto, no se alcanza el objetivo).
+- Con límite 6 se alcanza una solución más eficiente que en la versión sin límite, la cual alcanza el objetivo en profundidad 10.
+
+
 3. Búsqueda de coste uniforme.
 4. Algoritmos **A** y **A***.
